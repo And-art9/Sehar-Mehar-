@@ -2,4 +2,7 @@ int a = 2;
 int b = 4;
 int sum = a + b ;
 Conole.WriteLine(" The sum of a & b is : + smum );
-
+int a = 2;
+int b = 4;
+int product = a * b;
+Console.WriteLine("The product of a & b is : * sum );
