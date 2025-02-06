@@ -1,5 +1,8 @@
 int a = 2;
 int b = 4;
 int sum = a + b ;
-Conole.WriteLine(" The sum of a & b is : + smum );
-
+Conole.WriteLine(" The sum of a & b is : + sum );
+int a = 2;
+int b = 4;
+int sub = a - b;
+Console.WriteLine (" The sub of a & b is : - sub );
